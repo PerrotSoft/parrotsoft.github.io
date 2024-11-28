@@ -1,0 +1,16 @@
+[
+    {
+        "name": "neron",
+        "description": "neron AL 1.1 @ 2024.11.8 PerrotSoft",
+        "type": "libraries",
+        "installations": 56,
+        "downloadLink": "https://raw.githubusercontent.com/PerrotSoft/PerrotSoft-lib/refs/heads/main/1.0.1.zip"
+    },
+    {
+        "name": "PsdFile",
+        "description": "PsdFile 1.0 @ 2024.11.8 PerrotSoft",
+        "type": "libraries",
+        "installations": 105,
+        "downloadLink": "https://raw.githubusercontent.com/PerrotSoft/PerrotSoft-lib/refs/heads/main/PsdFile.dll"
+    }
+]
